@@ -17,9 +17,8 @@ Uses OpenSSL and RSA keys to sign and verify files. The private key creates a di
 ## How to Run
 1. Install Python 3 and OpenSSL.
 2. Save the program as `crypto_app.py`.
-3. Open a terminal in the program's directory.
-4. Run `python crypto_app.py`.
-5. Select an option from the menu.
+3. Run `python crypto_app.py`.
+4. Select an option from the menu.
 
 ## Digital Signature Instructions
 1. Select option 4 to generate RSA keys.
